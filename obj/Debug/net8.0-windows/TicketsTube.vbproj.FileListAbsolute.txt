@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\TicketsTube\bin\Debug\net8.0-windows\TicketsTube.exe
+C:\Users\HELLO\Source\Repos\TicketsTube\bin\Debug\net8.0-windows\TicketsTube.deps.json
+C:\Users\HELLO\Source\Repos\TicketsTube\bin\Debug\net8.0-windows\TicketsTube.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\TicketsTube\bin\Debug\net8.0-windows\TicketsTube.dll
+C:\Users\HELLO\Source\Repos\TicketsTube\bin\Debug\net8.0-windows\TicketsTube.pdb
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\TicketsTube.frmTicket.resources
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\TicketsTube.Resources.resources
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\TicketsTube.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\TicketsTube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\TicketsTube.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\TicketsTube.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\TicketsTube.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\TicketsTube.dll
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\refint\TicketsTube.dll
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\TicketsTube.pdb
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\TicketsTube.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\TicketsTube\obj\Debug\net8.0-windows\ref\TicketsTube.dll
